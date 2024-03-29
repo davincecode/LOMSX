@@ -1,0 +1,16 @@
+/* All Styling for the application is done in this file.
+* The file is located in the src folder.
+* The file is divided into sections for each component.
+* The sections are separated by comments.
+* @Author: davincecode
+ */
+
+/* Styling for the main application window */
+.root {
+    -fx-font-family: "Segoe UI Light";
+}
+
+/* Styling for the Login window */
+.login-scene-bg {
+    -fx-alignment: center;
+}
